@@ -37,7 +37,7 @@ My architectural approach is grounded in the belief that design is a **dialogue 
 ---
 
 ## 🔗 Portfolios & Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-blue)](./portfolio-2026.pdf) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-blue)](./Portfolio-2026.pdf) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chu-ian-1336663a3/)
 
 ---
