@@ -10,21 +10,21 @@ My architectural approach is grounded in the belief that design is a **dialogue 
 ---
 
 ## 🎨 Featured Project
-![Green Nest – Lee Kee Memorial Dispensary Renovation](./cover.jpg)
-*Featured: **Green Nest – Lee Kee Memorial Dispensary Renovation** — Redefining adaptive reuse as a dialogue between historical presence and urban well-being.*
+![Reuse the Watchtower (Italy)](./cover.jpg)
+*Featured: **Reuse the Watchtower (Italy)** — Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
 
 ---
 
 ## 📂 Key Projects
 
-### 1. Green Nest – Lee Kee Memorial Dispensary Renovation
+### 1. Reuse the Watchtower (Italy)
+*Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
+
+### 2. Green Nest – Lee Kee Memorial Dispensary Renovation
 *Redefining adaptive reuse as a dialogue between historical presence and urban well-being.*
 
-### 2. Nantou Old Town Reconstruction
+### 3. Nantou Old Town Reconstruction
 *Urban renewal rooted in collective memory and historical continuity.*
-
-### 3. Reuse the Watchtower (Italy)
-*Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
 
 ---
 
@@ -43,7 +43,7 @@ My architectural approach is grounded in the belief that design is a **dialogue 
 ---
 
 ## 📫 Contact
-- **Email:** [YOUR_EMAIL@LINK.COM]
+- **Email:** www.linkedin.com/in/chu-ian-1336663a3
 - **Location:** Hong Kong / Macau
 - **Research Interests:** Adaptive Reuse | Contextual Design | Urban Renovation
 
