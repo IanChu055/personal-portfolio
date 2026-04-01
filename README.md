@@ -10,7 +10,7 @@ My architectural approach is grounded in the belief that design is a **dialogue 
 ---
 
 ## 🎨 Featured Project
-![Reuse the Watchtower (Italy)](./cover.jpg)
+![Reuse the Watchtower (Italy)](./cover.jpg.jpg)
 *Featured: **Reuse the Watchtower (Italy)** — Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
 
 ---
