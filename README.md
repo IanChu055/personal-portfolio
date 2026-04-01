@@ -1,4 +1,4 @@
-markdown
+Markdown
 # Hi, I'm Chu Ieng Seng (Ian) 👋
 ### B.S.Sc. Architectural Studies @ CUHK | Seeking 2026 Summer Internship
 
@@ -10,34 +10,35 @@ My architectural approach is grounded in the belief that design is a **dialogue 
 ---
 
 ## 🎨 Featured Project
-![Reuse the Watchtower - Italy](./cover.jpg.jpg)
-*Featured: **Reuse the Watchtower (Italy)** — Reimagining a coastal ruin into an artist residency through new spatial narratives.*
+![Green Nest – Lee Kee Memorial Dispensary Renovation](./cover.jpg)
+*Featured: **Green Nest – Lee Kee Memorial Dispensary Renovation** — Redefining adaptive reuse as a dialogue between historical presence and urban well-being.*
 
 ---
 
 ## 📂 Key Projects
-### 1. Reuse the Watchtower (Italy)
-*Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
+
+### 1. Green Nest – Lee Kee Memorial Dispensary Renovation
+*Redefining adaptive reuse as a dialogue between historical presence and urban well-being.*
 
 ### 2. Nantou Old Town Reconstruction
 *Urban renewal rooted in collective memory and historical continuity.*
 
-### 3. Green Nest – Lee Kee Memorial Dispensary Renovation
-*Redefining adaptive reuse as a dialogue between historical presence and urban well-being.*
+### 3. Reuse the Watchtower (Italy)
+*Adaptive reuse of a historical coastal watchtower, extending its life through a dialogue between ancient stone and contemporary glass/steel structures.*
 
 ---
 
 ## 🛠️ Technical Toolkit
-- **Modeling:** Rhino (Proficient), AutoCAD, SketchUp
-- **Visualization:** Twinmotion, Enscape, V-Ray
+- **Modeling:** AutoCAD, SketchUp, Rhino
+- **Visualization:** Twinmotion
 - **Creative Suite:** Adobe Photoshop, Illustrator, InDesign
-- **Fabrication:** Physical Model Making, Laser Cutting, 3D Printing
+- **Fabrication:** Physical Model Making, Laser Cutting
 
 ---
 
 ## 🔗 Portfolios & Connect
-[![Portfolio](https://shields.io)](YOUR_PDF_FILE_NAME)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/chu-ian-1336663a3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-blue)](#) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chu-ian-1336663a3/)
 
 ---
 
